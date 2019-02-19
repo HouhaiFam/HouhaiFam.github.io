@@ -28,7 +28,7 @@ CSC 230- Elementary Data Structures and Algorithms
 Going over basic arrays, Linked Lists, Stacks and Queues as well as sorting algorithms and asymptotic analysis.
 
 ### Fun Facts
-I've got experience in Java, some basic C, a little Python and pretty well versed in a web testing framework called Selenium. 
+I'm very experienced in Java, have some basic C experience, a little Python and I'm pretty well versed in a web testing framework called Selenium. 
 
 I like to play guitar in my freetime. I have a seven and six string guitar at home and play almost daily. 
 
