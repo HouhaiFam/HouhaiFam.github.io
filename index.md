@@ -14,15 +14,15 @@ I'm currently taking CSC 330 (Advanced Data Structures and Algorithms) and we ar
 
 
 ### Prior Coursework
-##CSC 130- Introduction to Java
+CSC 130- Introduction to Java
 
 I didn't actually take this class but studied the Java documentation and tested out of the class, thus allowing me to jump right into the next stage of the program. This class focused on Java syntax and basic structures such as for loops, while and do while loops, if statements and the like.
 
-##CSC 230- Elementary Data Structures and Algorithms
+CSC 230- Elementary Data Structures and Algorithms
 
 Going over basic arrays, Linked Lists, Stacks and Queues as well as sorting algorithms and asymptotic analysis.
 
-##CSC 250- Foundations of Computer Science I
+CSC 250- Foundations of Computer Science I
 
 Introduction to set theory and a lot of logic problems and proofs. Also went over certain functions and algorithms like the Floyd-Warshall Algorithm and hashing.
 
